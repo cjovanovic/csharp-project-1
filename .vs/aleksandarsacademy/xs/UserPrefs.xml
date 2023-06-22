@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{1D6C8A1A-6559-4EB2-BD36-0D6A168AAC74}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SeleniumLearning PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CSharpSelFramework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpSelFramework/utilities/Base.cs">
+    <Files>
+      <File FileName="CSharpSelFramework/pageObjects/ProductsPage.cs" Line="29" Column="85" />
+      <File FileName="CSharpSelFramework/pageObjects/CheckoutPage.cs" Line="19" Column="54" />
+      <File FileName="CSharpSelFramework/pageObjects/PurchasePage.cs" Line="38" Column="1" />
+      <File FileName="CSharpSelFramework/pageObjects/DocumentsRequestPage.cs" Line="27" Column="1" />
+      <File FileName="CSharpSelFramework/pageObjects/LoginPage.cs" Line="73" Column="1" />
+      <File FileName="CSharpSelFramework/tests/UnitTest1.cs" Line="91" Column="1" />
+      <File FileName="CSharpSelFramework/tests/WindowHandlers.cs" Line="10" Column="43" />
+      <File FileName="CSharpSelFramework/utilities/Base.cs" Line="118" Column="14" />
+      <File FileName="SSharpFundas/Program.cs" Line="13" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="aleksandarsacademy" expanded="True">
+            <Node name="CSharpFundas" expanded="True" />
+            <Node name="CSharpSelFramework" expanded="True">
+              <Node name="pageObjects" expanded="True" />
+              <Node name="tests" expanded="True" />
+              <Node name="utilities" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>Assert.AreEqual(a, b);</Value>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="aleksandarsacademy" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CSharpFundas PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
